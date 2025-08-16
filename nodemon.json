@@ -1,0 +1,7 @@
+{
+    "watch": ["server", "routes", "models"], 
+    "ignore": ["client", "node_modules", "public"],
+    "ext": "js,json",
+    "exec": "node server.js"
+  }
+  

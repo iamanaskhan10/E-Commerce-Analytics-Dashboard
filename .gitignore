@@ -1,0 +1,20 @@
+# OS/Editor files
+.DS_Store
+.vscode/
+*.log
+
+# Dependency directories
+node_modules/
+*/node_modules/  # Extra protection for nested node_modules
+.env
+dist/
+build/
+
+# React/Vite cache
+.eslintcache
+.cache/
+
+# Build output
+/dist
+/.next
+/out
