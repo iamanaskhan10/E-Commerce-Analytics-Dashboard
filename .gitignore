@@ -18,3 +18,4 @@ build/
 /dist
 /.next
 /out
+config.bat

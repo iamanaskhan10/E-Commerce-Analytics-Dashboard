@@ -207,14 +207,7 @@ const RevenueChart = ({ data }) => {
             }}
           />
           
-          <Legend 
-            wrapperStyle={{ paddingTop: '10px' }}
-            formatter={(value) => {
-              if (value === 'Ecommerce Revenue') return 'Ecommerce Revenue';
-              if (value === 'Ecommerce Conversion Rate') return 'Ecommerce Conversion Rate';
-              return value;
-            }}
-          />
+          
           
           {/* Revenue Line (Blue) */}
           <Line

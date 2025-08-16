@@ -20,7 +20,7 @@ const ChartsGrid = ({
           {" "}
           <div className="chart-title">
             {" "}
-            <span style={{ color: "#22c55e", fontWeight: "bold" }}>
+            <span style={{ color: "#154D71", fontWeight: "bold" }}>
               Ecommerce Revenue
             </span>{" "}
             and{" "}
@@ -35,7 +35,7 @@ const ChartsGrid = ({
           {" "}
           <div className="chart-title">
             {" "}
-            <span style={{ color: "#22c55e", fontWeight: "bold" }}>
+            <span style={{ color: "#154D71", fontWeight: "bold" }}>
               Ecommerce Revenue
             </span>{" "}
             and{" "}
